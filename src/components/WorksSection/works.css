@@ -1,0 +1,21 @@
+.works {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 15px auto;
+  max-width: 1200px;
+  padding: 0 20px;
+}
+
+.card {
+    background-color: #16a085;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+.vertical-line-small {
+    margin: 15px 50%;
+    height: 30px;
+    border-left: 2px solid #fff;
+}
